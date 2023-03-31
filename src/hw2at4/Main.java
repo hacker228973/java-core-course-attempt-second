@@ -11,7 +11,7 @@ public class Main {
 
         // Створення тварин
         Cat cat1 = new Cat("Fluffy", 17);
-        Dog dog1 = new Dog("Fido", 55);
+        Dog dog1 = new Dog("Fido", 54);
 
         // Створення візитів
         Visit visit1 = new Visit(client1, cat1, "Checkup", "Healthy", "None", null);
